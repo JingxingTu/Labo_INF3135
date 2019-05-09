@@ -10,7 +10,7 @@ int main(int argc, char *argv[]) {
 
     for(int i = 1; i<argc; ++i)
 	printf("%s %s \n","bonjour",argv[i]);
-    printf("%d",somme(1,2));	
+//    printf("%d",somme(1,2));	
 
  //   printf("Hello, world! %d %p %d \n",a,(void*)b,c);
     return 0;
